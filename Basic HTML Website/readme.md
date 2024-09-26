@@ -10,3 +10,6 @@ Create a basic website using only HTML, using different sections of a website li
 - [x] Structure a website using HTML in a semantic way.
 - [x] Structure in a way that you can easily add styles later.
 - [x] Add SEO meta tags to the website.
+
+## Project URL
+[Roadmap Project - Basic HTML Website](https://roadmap.sh/projects/basic-html-website).
