@@ -2,7 +2,7 @@
 
 ## [Frontend Projects](https://roadmap.sh/frontend)
 - [x] [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
-- [x] [Single Page CV](http://roadmap.sh/projects/single-page-cv)
+- [x] [Single Page CV](https://roadmap.sh/projects/single-page-cv)
 
 ## Backend Projects
 - [X] proximamente...
